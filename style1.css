@@ -1,0 +1,22 @@
+body { font: 16px "Comic Sans MS", cursive; }
+
+p{ color: blue; }
+
+strong {
+    font: 200% serif;
+    /*font-family: serif;
+    font-size: 200%;
+    font-weight: normal;*/
+    color: red;
+}
+
+.carrot { color: orange; }
+
+.spinach { color: green; }
+
+#first { font-style: italic; }
+
+p.lorem-ipsum{
+    color: gray;
+    /*display: none;*/
+}
